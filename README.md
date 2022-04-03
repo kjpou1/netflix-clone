@@ -4,4 +4,8 @@
 
 ## Screenshot
 
-![ScreenShot](https://raw.github.com/kjpou1/netflix-clone/main/screenshots/mainscreenshot.png)
+![ScreenShot](https://github.com/kjpou1/netflix-clone/blob/main/screenshots/mainscreenshot.png)
+
+## MyList Screenshot
+
+![MyListScreenShot](https://github.com/kjpou1/netflix-clone/blob/main/screenshots/mylistscreenshot.png)
